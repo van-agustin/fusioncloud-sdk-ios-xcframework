@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/FusionCloud-Swift.h</key>
 		<data>
-		u2FF05glJeqxpayqv0MuFlHE1gA=
+		BmKg61OMmMyUEtF9HHJ3mctF/0s=
 		</data>
 		<key>Headers/FusionCloud.h</key>
 		<data>
@@ -14,35 +14,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cu/cF/4FiDK1YYZiW0W5Kr6xPWw=
+		oXbymjhCrpc6LgGs6KOkpSA+IWc=
 		</data>
-		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/FusionCloud.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		v3+3LFG3QSRomI+WouiOVprfdUk=
+		qR9ufjBxaVQrBH6EXCZfCWhbJE4=
 		</data>
-		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/FusionCloud.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Naopt30SORtRtsAi+px8ZmeBf4g=
+		c+1PVc7KtLh9eRgQidcr7ZYblbM=
+		</data>
+		<key>Modules/FusionCloud.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		7omXg1qHWbG89JcBzn/VHXlCA+4=
+		</data>
+		<key>Modules/FusionCloud.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		mfHTRa9SV7GFZxDyej64iOYIvEA=
+		</data>
+		<key>Modules/FusionCloud.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		M+Ek79xunFZM60Ihb5Dy/KdS2cg=
 		</data>
 		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Y8aRVsznMkWY1GGr0ZII6sETsoA=
+		luV4kjejQ1FAYF2iI1ujpJ88dv8=
 		</data>
 		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Naopt30SORtRtsAi+px8ZmeBf4g=
+		cgyxFasKT7207Kgd2cA/6QRKFeA=
 		</data>
 		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pdBcmWfJEWln0mduhFRChktNqkA=
+		78+MWwfmR1n7qdcmoUf1SDOkUg8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		MPiwkkN3k4ufSjJyEBWdIdWE2VU=
-		</data>
-		<key>dev.cer</key>
-		<data>
-		K48bVzMNu6LQemxR9w7pDdq5rY4=
+		h/phznl0iODvNj9WIOC9lIqfYOc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,7 +59,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ILBGre1Hj37pSH1r2MFvjVM1RyX9DSVmO4KPdyfOzw=
+			4MjVKQ5HeHbb2YddAp1QtlbneYpX5lwNvlBGIh5eSVc=
 			</data>
 		</dict>
 		<key>Headers/FusionCloud.h</key>
@@ -61,53 +69,67 @@
 			ni8Nz8H6cVqrAwnCcnEJRZFmHUaPX1qJGKI7DYViHzs=
 			</data>
 		</dict>
-		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/FusionCloud.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ew3gnfyEg5eNHgVt5VsR9+Gseor1atEh8cjeV5krLnU=
+			XGY0eBp8/d5lccKM3AMVlieoZG93XHf5XgaS+GpMM+k=
 			</data>
 		</dict>
-		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/FusionCloud.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G1UZNvdxLYGzag5o4ttN7rCvsiH5dnRYo1ApyT6HTnM=
+			NpCeMJJD8OGTDaaIjEQTwCceXX8Wf/p9gB/T2FElev0=
+			</data>
+		</dict>
+		<key>Modules/FusionCloud.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			da1ufq+j2OMSwTLUX+j39wcFxdZFhykNeuakDmhJbCc=
+			</data>
+		</dict>
+		<key>Modules/FusionCloud.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VpT4altMUpe11BDQlzTMB0FFAwRglSeiuIbqE6coU/8=
+			</data>
+		</dict>
+		<key>Modules/FusionCloud.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FMYUhxcC0f6RQ7ZnH9ArAzYlrX0d9Rq819+dquqsO+c=
 			</data>
 		</dict>
 		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5S0AP+IY8L/QBb+jr0Jp9kvXgMV88/9aIanSnd0I2/I=
+			it0D4lwnrOhdBtT1sF5lvPhN+IEfuPyw03p51wiIehE=
 			</data>
 		</dict>
 		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G1UZNvdxLYGzag5o4ttN7rCvsiH5dnRYo1ApyT6HTnM=
+			eNUBfQxnJD+LwfzGDVt1CHEB6hToUo4smSqxPFsj1EE=
 			</data>
 		</dict>
 		<key>Modules/FusionCloud.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			02/m+ORX7ZO6dstgv16lLjyuDl3pBjues/OCYerdW4M=
+			2a8uMQ7O9c2DbT3HLZ+VaPFsB7VtglrU5eRqNDk3KX8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oo70+zPooiMpjiyW4PY2+vuFPEDzYJqlatDfwWMrgrw=
-			</data>
-		</dict>
-		<key>dev.cer</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			55PJsC/YqhPiHDEiisywgRlkO3SciYlksXRtRsPUy9I=
+			+dzPYgEFX/mzA0dX5NC1ocClDhA/t9XYvmcDzcOq1Ec=
 			</data>
 		</dict>
 	</dict>

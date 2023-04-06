@@ -6,6 +6,6 @@ framework module FusionCloud {
 }
 
 module FusionCloud.Swift {
-  header "FusionCloud-Swift.h"
-  requires objc
+    header "FusionCloud-Swift.h"
+    requires objc
 }
