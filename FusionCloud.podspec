@@ -1,13 +1,13 @@
 Pod::Spec.new do |spec|
   spec.name               = "FusionCloud"
-  spec.version            = "1.0.1b"
+  spec.version            = "1.0.1c"
   spec.summary            = "FusionCloud"
   spec.description        = "FusionCloud Cloud API for iOS"
   spec.homepage           = "..."
   spec.documentation_url  = "..."
   spec.license            = { :type => "MIT" }
   spec.author             = { "Datamesh" => "vanessa@datameshgroup.com" }
-  spec.source             = { :git => 'https://github.com/van-agustin/fusioncloud-sdk-ios-xcframework.git', :tag => "1.0.1" }
+  spec.source             = { :git => 'https://github.com/van-agustin/fusioncloud-sdk-ios-xcframework.git', :tag => "1.0.1c" }
   spec.swift_version      = '5.7.2'
   spec.dependency 'Alamofire' , '~> 5.3.0' 
   spec.dependency 'ObjectMapper', '~> 4'
